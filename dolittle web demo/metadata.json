@@ -1,0 +1,8 @@
+{
+  "name": "Pet Interpreter AI",
+  "description": "Upload a video of your pet or use live video to get AI-powered interpretations of their thoughts, body language, or mood using Gemini. Catalog your pets and their insights.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
